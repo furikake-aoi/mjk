@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@700&display=swap');
+body{
+    margin: 0;
+    font-family: 'Noto Serif JP', serif;
+}
+.ipp{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+#int{
+    text-align: center;
+    padding: 5%;
+}
+.list{
+    background-color: #ccc;
+    padding: 5%;
+}
+.list a{
+    color: #000;
+}
